@@ -24,11 +24,11 @@ fail-safe,フェイルセーフ
 deny-by-default,原則禁止
 multiple layers of defenses,多層防御
 input validation,入力検査
-data sanitization,無害化
+data sanitization,データ無害化
 buffer overflows,バッファーオーバーフロー
 integer errors,整数値エラー
 SQL injection,SQLインジェクション
-XSS vulnerability ,XSS脆弱性
+XSS vulnerability,XSS脆弱性
 race conditions,競合状態
 mitigating,緩和
 fuzzing,ファジング
@@ -37,9 +37,9 @@ dynamic analysis,動的解析
 underground economy,地下経済
 digital espionage,デジタルスパイ活動
 cyberwarfare,サイバー戦争
-insider threats,内部犯行
+insider threats,内部犯脅威
 hacktivism,ハクティビズム
-advanced persistent threats,APT，標的型攻撃
+advanced persistent threats,APT（標的型攻撃）
 social engineering,ソーシャルエンジニアリング
 phishing,フィッシング
 privacy,プライバシ
