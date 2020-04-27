@@ -1,0 +1,127 @@
+英語,翻訳
+vulnerability,脆弱性
+authentication,認証
+authorization,認可
+access control,アクセス制御
+mandatory (access control) ,強制
+discretionary (access control) ,任意
+responsible disclosure,責任ある開示
+confidentiality,機密性
+integrity,完全性
+availability,可用性
+least privilege,最小権限
+isolation,隔離
+fail-safe defaults,ファイルセーフの原則
+open design,オープンデザイン
+end-to-end security,拠点間セキュリティ
+defense in depth,縦深防御（多層防御）
+security by design ,セキュリティ・バイ・デザイン
+usable security ,ユーザブルセキュリティ
+prevention,防御
+detection,検知
+deterrence,抑止
+fail-safe,フェイルセーフ
+deny-by-default,原則禁止
+multiple layers of defenses,多層防御
+input validation,入力検査
+data sanitization,無害化
+buffer overflows,バッファーオーバーフロー
+integer errors,整数値エラー
+SQL injection,SQLインジェクション
+XSS vulnerability ,XSS脆弱性
+race conditions,競合状態
+mitigating,緩和
+fuzzing,ファジング
+static analysis,静的解析
+dynamic analysis,動的解析
+underground economy,地下経済
+digital espionage,デジタルスパイ活動
+cyberwarfare,サイバー戦争
+insider threats,内部犯行
+hacktivism,ハクティビズム
+advanced persistent threats,APT，標的型攻撃
+social engineering,ソーシャルエンジニアリング
+phishing,フィッシング
+privacy,プライバシ
+anonymity,匿名性
+steganography,ステガノグラフィ
+denial of service,DoS，サービス拒否
+spoofing,なりすまし
+sniffing,盗聴
+man-in-the-middle,中間者攻撃
+traffic analysis,通信解析
+intrusion detection,侵入検知
+honeypots,ハニーポット
+network censorship,ネットワーク検閲
+cipher,暗号
+caesar cipher,シーザー暗号
+pseudo-random generator,擬似乱数生成器
+stream cipher,ストリーム暗号
+block ciphers,ブロック暗号
+pseudo-random function,擬似乱数生成器
+hash function,ハッシュ関数
+collision resistance,衝突困難性
+message authentication code,メッセージ認証コード
+key derivations function,鍵生成関数
+symmetric key cryptography,共通鍵暗号
+perfect secrecy,完全秘匿性
+authenticated encryption,認証付き暗号
+message integrity,メッセージ完全性
+Trapdoor permutation,落し戸付き置換
+digital signature,ディジタル署名
+certificate,証明書
+authenticated key exchange protocol,認証付き鍵交換
+challenge-response,チャレンジ・レスポンス
+zero-knowledge protocols,ゼロ知識証明プロトコル
+oblivious transfer,紛失通信
+indistinguishability,識別困難性
+unforgeability,偽造不可能性
+collision-resistance,衝突困難性
+chosen-message attack,選択文攻撃
+birthday attacks,誕生日攻撃
+side channel attack,サイドチャネル攻撃
+fault injection attack,故障注入攻撃
+quantum cryptography,量子暗号
+cryptanalysis,暗号解析
+cryptographic algorithm,暗号アルゴリズム
+cryptology,暗号学
+key exchange protocol,鍵交換プロトコル
+cryptographic protocol,暗号プロトコル
+root of trust,信頼の起点
+security breach,セキュリティ侵害
+facial recognition,顔認証
+identification,識別
+decipher,復号
+encipher,暗号化
+pseudo random number generator,擬似乱数生成器
+certification,認証
+accredit,認定
+active defense,アクティブディフェンス
+passive defense,パッシブディフェンス
+indicator,指標（インジケーター）
+hacking back,ハックバック
+information sharing,情報共有
+supply chain,サプライチェーン
+attribution,アトリビューション
+collective attribution,集団的アトリビューション
+state practice,国家実行
+indicator of compromise,不正侵害のインディケーター
+TTP(Tactics、Technique、Procedure),TTP（戦術、技術、手法）
+accounting,アカウンティング（課金やユーザーのアクセス情報の収集、AAA(Authentication、Authorization、Accounting)）
+Federated identity,連合アイデンティティ（「ID連携」の別名）
+targeted attack,標的型攻撃
+ransomware,ランサムウェア
+state actors,国家主体
+non-state actors,非国家主体
+information sharing,情報共有
+defend forward,ディフェンドフォワード
+resilience,レジリエンス
+cyber space,サイバー空間
+norm,規範
+public key,公開鍵
+secret key,秘密鍵
+shared secret,共有秘密
+deterrence by denial,拒否的抑止力
+deterrence by punishment,懲罰的抑止力
+deny,拒否（deterrence by denial）
+persistent engagement,継続的交戦
