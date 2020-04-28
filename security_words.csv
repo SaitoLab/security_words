@@ -102,7 +102,7 @@ indicator,指標（インジケーター）
 hacking back,ハックバック
 information sharing,情報共有
 supply chain,サプライチェーン
-attribution,アトリビューション
+attribution,アトリビューション（身元特定）
 collective attribution,集団的アトリビューション
 state practice,国家実行
 indicator of compromise,不正侵害のインディケーター
@@ -126,4 +126,7 @@ deterrence by punishment,懲罰的抑止力
 deny,拒否（deterrence by denial）
 persistent engagement,継続的交戦
 threat vectors,脅威ベクター
-attack surface,アタックサーフェース
+attack surface,アタックサーフェース（攻撃箇所）
+misattribution,誤認識
+false flags, 偽旗
+proxy,プロキシ
