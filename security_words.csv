@@ -67,7 +67,7 @@ symmetric key cryptography,共通鍵暗号
 perfect secrecy,完全秘匿性
 authenticated encryption,認証付き暗号
 message integrity,メッセージ完全性
-Trapdoor permutation,落し戸付き置換
+trapdoor permutation,落し戸付き置換
 digital signature,ディジタル署名
 certificate,証明書
 authenticated key exchange protocol,認証付き鍵交換
@@ -127,6 +127,6 @@ deny,拒否（deterrence by denial）
 persistent engagement,継続的交戦
 threat vectors,脅威ベクター
 attack surface,アタックサーフェース（攻撃箇所）
-misattribution,誤認識
-false flags, 偽旗
+misattribution,誤特定
+false flags,偽旗
 proxy,プロキシ
