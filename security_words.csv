@@ -196,3 +196,4 @@ unauthorised access,不正アクセス
 dangling pointer,ダングリングポインタ
 wild pointer,ワイルドポインタ
 memory smash,メモリ破壊
+shell code,シェルコード
