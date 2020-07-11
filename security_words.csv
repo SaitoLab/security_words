@@ -187,3 +187,4 @@ security hole,セキュリティホール
 zero-day attack,ゼロデイ攻撃
 injection vector,インジェクションベクタ
 influence operations,影響工作
+heap-overflow vulnerability,ヒープオーバーフロー脆弱性
