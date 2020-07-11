@@ -193,3 +193,6 @@ cyber sanctions,サイバー制裁
 countermeasures,対抗策
 cryptocurrency,暗号通貨
 unauthorised access,不正アクセス
+dangling pointer,ダングリングポインタ
+wild pointer,ワイルドポインタ
+memory smash,メモリ破壊
