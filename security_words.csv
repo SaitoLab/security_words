@@ -182,7 +182,7 @@ aggressor,侵略者
 disinformation,偽情報
 privileges escalation,権限昇格
 administrator,管理者
-compromise,危殆化
+compromise,危殆化（する）
 security hole,セキュリティホール
 zero-day attack,ゼロデイ攻撃
 injection vector,インジェクションベクタ
@@ -201,3 +201,4 @@ ID Federation,ID連携
 browser fingerprint,ブラウザフィンガープリント
 connect-back,コネクトバック
 code-reuse attack,コード再利用型攻撃
+security regression testing,セキュリティ回帰テスト
