@@ -205,3 +205,4 @@ security regression testing,セキュリティ回帰テスト
 misinformation,誤情報
 fake news,フェイクニュース
 stack-smashing attack,スタック破壊攻撃
+format string attack,書式文字列攻撃
