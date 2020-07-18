@@ -209,3 +209,6 @@ format string attack,書式文字列攻撃
 fault injection,フォールトインジェクション
 built in function,組み込み関数
 standard library function,標準ライブラリ関数		
+canary,カナリア
+sanitize,無害化（する）
+autonomy,自律性
