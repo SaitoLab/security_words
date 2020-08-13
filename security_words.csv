@@ -226,3 +226,8 @@ incident,インシデント
 fraud detector,不正検知
 Operational Technology(OT),運用・ 制御技術(OT)
 subject,主体
+information leak,情報漏洩
+path traversal,パストラバーサル
+configuration,設定
+OS command injection,OSコマンドインジェクション
+credential,クレデンシャル
