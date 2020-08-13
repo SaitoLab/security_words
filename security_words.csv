@@ -231,3 +231,22 @@ path traversal,パストラバーサル
 configuration,設定
 OS command injection,OSコマンドインジェクション
 credential,クレデンシャル
+handshake,ハンドシェーク
+plaintext,平文
+ciphertext,暗号文
+encryption,暗号化、暗号
+decryption,復号
+private-key,秘密鍵（公開鍵対における）
+public-key,公開鍵（公開鍵対における）
+public-key cryptography,公開鍵暗号化方式
+asymmetric key algorithm,非対称暗号化方式（=公開鍵暗号化方式）
+private-key cryptography,秘密鍵暗号化方式（=共通鍵暗号化方式）
+symmetric key algorithm,対称暗号化方式（=共通鍵暗号化方式）
+known-plaintext attack,既知平文攻撃
+chosen-plaintext attack,選択平文攻撃
+chosen-ciphertext attack,選択暗号文攻撃
+cracking,クラッキング
+cryptosystem,暗号システム
+modern ciphers,現代暗号
+key size,鍵サイズ（=鍵長）
+key length,鍵長
