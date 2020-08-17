@@ -253,3 +253,10 @@ Dark web,ダークウェブ
 Deep Web,ディープウェブ
 Surface Web,サーフェスウェブ
 Public Web,パブリックウェブ
+collision attack,衝突攻撃
+brute force attack,総当たり攻撃
+cryptographic hash function,暗号学的ハッシュ関数
+certificate authority,認証局
+code signing,コード署名
+public key certificate, 公開鍵証明書
+X.509 certificate,X.509証明書
