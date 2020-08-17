@@ -76,9 +76,8 @@ zero-knowledge protocols,ゼロ知識証明プロトコル
 oblivious transfer,紛失通信
 indistinguishability,識別困難性
 unforgeability,偽造不可能性
-collision-resistance,衝突困難性
 chosen-message attack,選択文攻撃
-birthday attacks,誕生日攻撃
+birthday attack,誕生日攻撃
 side channel attack,サイドチャネル攻撃
 fault injection attack,故障注入攻撃
 quantum cryptography,量子暗号
