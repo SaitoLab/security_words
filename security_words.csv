@@ -62,7 +62,8 @@ pseudo-random function,擬似乱数生成器
 hash function,ハッシュ関数
 collision resistance,衝突困難性
 message authentication code,メッセージ認証コード
-key derivations function,鍵生成関数
+key derivations function,鍵生成関数、KDF
+key derivation,鍵導出
 symmetric key cryptography,共通鍵暗号
 perfect secrecy,完全秘匿性
 authenticated encryption,認証付き暗号
@@ -279,3 +280,9 @@ interactive voice response system,自動音声応答システム（IVRシステ�
 weakness,弱点
 end to end encryption,拠点間暗号化（E2EE、E2E暗号化）
 credential stuffing attack,クレデンシャルスタッフィング攻撃（パスワードリスト攻撃）
+truncation attack, 強制切断攻撃
+Certiﬁcate Transparency, 証明書の透明性、CT
+Signed Certiﬁcate Timestamps, 署名済み証明書タイムスタンプ、SCT
+transcript hash,トランスクリプトハッシュ
+session resumption,セッションリザンプション
+nonce, ナンス
