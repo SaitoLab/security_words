@@ -14,7 +14,7 @@ isolation,隔離
 fail-safe defaults,ファイルセーフの原則
 open design,オープンデザイン
 end-to-end security,拠点間セキュリティ
-defense in depth,縦深防御（多層防御）
+defense in depth,縦深防御（≒多層防御）
 security by design ,セキュリティ・バイ・デザイン
 usable security ,ユーザブルセキュリティ
 prevention,防御
@@ -39,7 +39,7 @@ digital espionage,デジタルスパイ活動
 cyberwarfare,サイバー戦争
 insider threats,内部犯脅威
 hacktivism,ハクティビズム
-advanced persistent threat,高度永続的脅威(APT)
+advanced persistent threat,高度永続的脅威(≒APT)
 social engineering,ソーシャルエンジニアリング
 phishing,フィッシング
 privacy,プライバシ
@@ -98,17 +98,17 @@ certification,認証
 accredit,認定
 active defense,アクティブディフェンス
 passive defense,パッシブディフェンス
-indicator,指標（インジケーター）
+indicator,指標（≒インジケーター）
 hacking back,ハックバック
 information sharing,情報共有
 supply chain,サプライチェーン
-attribution,アトリビューション（身元特定）
+attribution,アトリビューション（≒身元特定）
 collective attribution,集団的アトリビューション
 state practice,国家実行
 indicator of compromise,不正侵害のインディケーター
 TTP(Tactics、Technique、Procedure),TTP（戦術、技術、手法）
 accounting,アカウンティング（課金やユーザーのアクセス情報の収集、AAA(Authentication、Authorization、Accounting)）
-Federated identity,連合アイデンティティ（「ID連携」の別名）
+Federated identity,連合アイデンティティ（≒「ID連携」）
 targeted attack,標的型攻撃
 ransomware,ランサムウェア
 state actors,国家主体
@@ -124,7 +124,7 @@ deterrence by punishment,懲罰的抑止力
 deny,拒否（deterrence by denial）
 persistent engagement,継続的交戦
 threat vectors,脅威ベクター
-attack surface,アタックサーフェース（攻撃対象領域）
+attack surface,アタックサーフェース（≒攻撃対象領域）
 misattribution,誤特定
 false flags,偽旗
 proxy,プロキシ
@@ -146,11 +146,11 @@ foreign Intelligence,対外諜報
 counter-Intelligence,防諜
 intelligence community,諜報コミュニティ
 signals intelligence,シギント
-communications intelligence,コミント(通信諜報)
-electronic intelligence,エリント(電子諜報)
-human intelligence,ヒューミント(人的諜報)
-imagery intelligence,イミント(画像諜報)
-measurement and signature intelligence,マシント(計測諜報)
+communications intelligence,コミント(≒通信諜報)
+electronic intelligence,エリント(≒電子諜報)
+human intelligence,ヒューミント(≒人的諜報)
+imagery intelligence,イミント(≒画像諜報)
+measurement and signature intelligence,マシント(≒計測諜報)
 sinkhole,シンクホール
 information warfare(IW),情報戦
 spear phishing,スピアフィッシング
@@ -237,16 +237,16 @@ decryption,復号
 private-key,秘密鍵（公開鍵対における）
 public-key,公開鍵（公開鍵対における）
 public-key cryptography,公開鍵暗号化方式
-asymmetric key algorithm,非対称暗号化方式（=公開鍵暗号化方式）
-private-key cryptography,秘密鍵暗号化方式（=共通鍵暗号化方式）
-symmetric key algorithm,対称暗号化方式（=共通鍵暗号化方式）
+asymmetric key algorithm,非対称暗号化方式（≒公開鍵暗号化方式）
+private-key cryptography,秘密鍵暗号化方式（≒共通鍵暗号化方式）
+symmetric key algorithm,対称暗号化方式（≒共通鍵暗号化方式）
 known-plaintext attack,既知平文攻撃
 chosen-plaintext attack,選択平文攻撃
 chosen-ciphertext attack,選択暗号文攻撃
 cracking,クラッキング
 cryptosystem,暗号システム
 modern ciphers,現代暗号
-key size,鍵サイズ（=鍵長）
+key size,鍵サイズ（≒鍵長）
 key length,鍵長
 forward secrecy,前方秘匿性、FS 
 perfect forward secrecy,完全前方秘匿性、PFS
@@ -271,15 +271,15 @@ cybernorm,サイバー規範
 cybernorm process,サイバー規範プロセス
 cyber diplomacy,サイバー外交
 cyber hygiene,サイバー衛生
-back up,バックアップ（複製保存）
+back up,バックアップ（≒複製保存）
 shut down ,シャットダウン
 recovery,リカバリー
 reverse brute force attack,逆総当たり攻撃
 password spraying (attack),パスワードスプレー（攻撃）
-interactive voice response system,自動音声応答システム（IVRシステム）
+interactive voice response system,自動音声応答システム（≒IVRシステム）
 weakness,弱点
-end to end encryption,拠点間暗号化（E2EE、E2E暗号化）
-credential stuffing attack,クレデンシャルスタッフィング攻撃（パスワードリスト攻撃）
+end to end encryption,拠点間暗号化（≒E2EE、E2E暗号化）
+credential stuffing attack,クレデンシャルスタッフィング攻撃（≒パスワードリスト攻撃）
 truncation attack, 強制切断攻撃
 Certiﬁcate Transparency, 証明書の透明性、CT
 Signed Certiﬁcate Timestamps, 署名済み証明書タイムスタンプ、SCT
@@ -291,7 +291,7 @@ bot,ボット
 fake account,フェイクアカウント
 propaganda,プロパガンダ
 social media,ソーシャルメディア
-sock puppet,ソックパペット（多重アカウント）
+sock puppet,ソックパペット（≒多重アカウント）
 troll,トロール
 fact-check,ファクトチェック
 cyber troops,サイバー部隊
