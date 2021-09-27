@@ -61,7 +61,7 @@ block ciphers,ブロック暗号
 pseudo-random function,擬似乱数生成器
 hash function,ハッシュ関数
 collision resistance,衝突困難性
-message authentication code,メッセージ認証コード
+message authentication code,メッセージ認証符号
 key derivations function,鍵生成関数、KDF
 key derivation,鍵導出
 symmetric key cryptography,共通鍵暗号
