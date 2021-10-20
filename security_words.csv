@@ -106,7 +106,7 @@ attribution,アトリビューション（≒身元特定）
 collective attribution,集団的アトリビューション
 state practice,国家実行
 indicator of compromise,不正侵害のインディケーター
-TTP(Tactics、Technique、Procedure),TTP（戦術、技術、手法）
+Tactics、Technique、Procedure (TTP),TTP（戦術、技術、手法）
 accounting,アカウンティング（課金やユーザーのアクセス情報の収集、AAA(Authentication、Authorization、Accounting)）
 Federated identity,連合アイデンティティ（≒「ID連携」）
 targeted attack,標的型攻撃
@@ -382,12 +382,12 @@ sentiment analysis,感情分析
 Target Audience Analysis,ターゲットオーディエンス分析（TAA）
 defame,誹謗中傷
 persuade,説得
-undermine institutions,制度の弱体化
-the political agenda,政治的アジェンダ
+undermine institutions,機関の弱体化
+political agenda,政治的アジェンダ
 Web crawler,Webクローラー
 perimeter defense,境界防御
 zero trust defense,ゼロトラスト防御
-data-driven defense,ゼロトラスト又はデータドリブン防御
+data-driven defense,データドリブン防御
 cyber resilience,サイバーレジリエンス
 influencers,インフルエンサー
 spammy account,スパムアカウント
@@ -439,3 +439,7 @@ echo  chambers,エコーチェンバー
 ideological bubble,イデオロギーバブル
 wiper malware,ワイパー型マルウェア
 potentially unwanted program(PUP),不審プログラム
+bit-flipping attack,ビット反転攻撃
+timing attack,タイミング攻撃
+DNS cache poisoning,DNSキャッシュポイズニング
+social domain,ソーシャル領域
