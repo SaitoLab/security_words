@@ -182,7 +182,6 @@ privileges escalation,権限昇格
 administrator,管理者
 compromise,危殆化（する）
 security hole,セキュリティホール
-zero-day attack,ゼロデイ攻撃
 injection vector,インジェクションベクタ
 influence operation,影響力工作
 heap-overflow vulnerability,ヒープオーバーフロー脆弱性
@@ -483,3 +482,6 @@ Software-defined Computing(SDC),ソフトウェア定義演算
 Software Defined Storage(SDS),ソフトウェア定義ストレージ
 Return Of Security Investment(ROSI),セキュリティ投資回収
 Annual Loss Expectancy(ALE),年間損失予測
+perimeter model,境界モデル
+Zero Trust Architecture,ゼロトラストアーキテクチャ
+focused defense,集中防御
