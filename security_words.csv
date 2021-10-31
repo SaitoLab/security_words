@@ -476,12 +476,22 @@ Principle of least privilege,最小権限アクセス原則
 Multi Factor Authentication(MFA),多要素認証
 Policy Decision Point(PDP),ポリシー決定ポイント
 Public Key Infrastructure(PKI),公開鍵基盤
-Master Data Management (MDM),マスターデータ管理
+Master Data Management(MDM),マスターデータ管理
 Security Information and Event Management(SIEM),セキュリティ情報とイベント管理
-Software-defined Computing(SDC),ソフトウェア定義演算 
+Software-defined Computing(SDC),ソフトウェア定義コンピューティング
 Software Defined Storage(SDS),ソフトウェア定義ストレージ
 Return Of Security Investment(ROSI),セキュリティ投資回収
 Annual Loss Expectancy(ALE),年間損失予測
 perimeter model,境界モデル
 Zero Trust Architecture,ゼロトラストアーキテクチャ
 focused defense,集中防御
+strategy-driven information activities,戦略主導型情報活動
+state-sponsored information activities,国家主導情報活動
+On-demand self-service,オンデマンドセルフサービス
+Broad network access,多様なネットワークアクセス
+Resource Pooling,リソース共用性
+Rapid Elasticity,スピーディな拡張性
+Measured Service,計測可能サービス
+Customer Relationship Management,顧客関係管理
+on-premise,自社管理設備内運用
+off-premise,他社管理設備内運用
