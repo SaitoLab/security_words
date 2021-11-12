@@ -515,3 +515,10 @@ mind superiority,精神優越
 perception manipulation,認知操作
 cognitive warfare,認知戦
 ideological sphere,思想領域
+Public Key Pinning,公開鍵ピニング
+Pre-loaded Public Key Pinning,プレロード公開鍵ピニング
+HTTP-based Public Key Pinning(HPKP),HTTPベース公開鍵ピニング
+OCSP stapling,OCSPステープリング
+stateful packet inspection,ステートフルパケットインスペクション
+Computationally security,計算量的安全性
+Information-theoretic security,情報理論的安全性
