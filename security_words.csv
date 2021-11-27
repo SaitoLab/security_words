@@ -462,7 +462,7 @@ Privileged Access Management(PAM),特権アクセス管理
 Multi-Factor Authentication(MFA),多要素認証
 Data Loss Prevention(DLP),データロス防止
 Policy Enforcement Point(PEP),ポリシー強制点 
-Identity, Credentialing and Access Management(ICAM), アイデンティティ・クレデンシャルおよびアクセス管理
+Identity Credentialing and Access Management(ICAM),アイデンティティ・クレデンシャルおよびアクセス管理
 Non-Person Entity(NPE),非人間主体
 Identity Provider(IDP),IDプロバイダー
 Automated Account Provisioning(AAP), 自動アカウントプロビジョニング
