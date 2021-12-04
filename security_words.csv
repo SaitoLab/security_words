@@ -522,3 +522,4 @@ OCSP stapling,OCSPステープリング
 stateful packet inspection,ステートフルパケットインスペクション
 Computationally security,計算量的安全性
 Information-theoretic security,情報理論的安全性
+Coordinated Inauthentic Behavior(CIB),協調的不正行為
