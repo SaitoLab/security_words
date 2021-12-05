@@ -1,5 +1,6 @@
 国・地域・同盟,英語,訳語
 アメリカ,CYBERCOM,サイバー軍
+アメリカ,United States Strategic Command(USSTRATCOM),米国戦略軍
 アメリカ,National Security Agency(NSA),国家安全保障局
 アメリカ,National Institute of Standards and Technology(NIST),国立標準技術研究所
 アメリカ,Cyberspace Security and Emerging Technologies(CSET),サイバースペース安全保障・新興技術局
@@ -48,12 +49,16 @@ NATO,NATO Strategic Communications Centre of Excellence(StratCom),NATO 戦略的
 中国,cyberforce,サイバーフォース
 中国,cyber-army units,サイバー軍
 中国,People’s Liberation Army(PLA),人民解放軍
+中国,Central Military Committee(CMC),共産党中央軍事委員会
+中国,Central Propaganda Department(CPD),中央宣伝部
+中国,Taiwan Affairs Office(TAO),国務院台湾事務弁公室（中央台湾工作弁公室）
+中国,Institute for National Strategic Studies(INSS),国家戦略研究所
 中国,Strategic Support Force(SSF),戦略支援部隊
 中国,SSF Base 311(Unit 61716),戦略支援部隊ベース311（61716部隊）
 中国,China Huayi Broadcasting Corporation(CHBC),中国華芸放送公司
 中国,People’s Liberation Army Air Force(PLAAF),人民解放軍空軍
 中国,Service Propaganda Culture Centers,サービスプロパガンダ文化センター
-中国,Network Systems Department(NSD),ネットワークシステム部
+中国,SSF Network Systems Department(NSD),SSF ネットワークシステム部(SSF NSD)
 中国,China Military Online,中国軍オンライン
 中国,China Cyberspace Research Institute,中国サイバースペース研究所
 中国,Academy of Military Science(AMS),軍事科学アカデミー
