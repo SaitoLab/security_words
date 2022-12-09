@@ -473,7 +473,7 @@ Public Cloud,パブリッククラウド,
 Community Cloud,コミュニケーションクラウド,
 Hybrid Cloud,ハイブリッドクラウド,
 Principle of least privilege,最小権限アクセス原則,
-Multi Factor Authentication(MFA),多要素認証,
+-,-, 462と重複したので削除
 Policy Decision Point(PDP),ポリシー決定ポイント,
 Public Key Infrastructure(PKI),公開鍵基盤,
 Master Data Management(MDM),マスターデータ管理,
